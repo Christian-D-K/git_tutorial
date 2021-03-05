@@ -1,1 +1,3 @@
-console.log('tesuto')
+console.log('tesuto');
+
+alert('git status');
