@@ -6,3 +6,4 @@ console.log('git diff');
 console.log('git commit --amend');
 
 console.log('git merge');
+console.log('git conflict');
